@@ -1,0 +1,7 @@
+If you have Fish shell installed on the terminal. you can use the bash prompt.
+
+got to terminal with Fish Shell.
+fish$bash
+it will run bash for you.
+'exit' to go back on fish shell.
+
